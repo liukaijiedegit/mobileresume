@@ -1,0 +1,23 @@
+{
+  "name": "20170305RESUME",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc css/index.less css/build.min.css -x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^2.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukaijiedegit/work.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liukaijiedegit/work/issues"
+  },
+  "homepage": "https://github.com/liukaijiedegit/work#readme",
+  "description": ""
+}
